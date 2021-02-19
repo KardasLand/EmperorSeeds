@@ -1,0 +1,15 @@
+name: EmperorSeeds
+version: ${project.version}
+main: com.kardasland.emperorseeds.Emperorseeds
+authors: [ KardasLand ]
+softdepend: [ ASkyBlock ]
+description: Custom seed plugin.
+website: www.kardasland.com
+commands:
+  emperorseeds:
+    description: EmperorSeeds eklentisinin ana komudu.
+    usage: /<command>
+    aliases:
+      - es
+      - seeds
+      - eseeds

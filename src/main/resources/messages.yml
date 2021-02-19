@@ -1,0 +1,4 @@
+placed-succesfully: "Başarıyla %type% tohumunu ektin."
+not-enough-permission: "Yetkin bulunmamakta. &o(%permission%)"
+given-seed-to-player: "Başarıyla %target% adlı oyuncuya %type% ekini verdin."
+still-in-cooldown: "Hala %second% saniye bekleme süren var!"

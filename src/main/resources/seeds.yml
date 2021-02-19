@@ -1,0 +1,19 @@
+seeds:
+  elmas:
+    material: WHEAT_SEEDS
+    name: "&bElmas Tohumu"
+    lore:
+      - " "
+      - " &c*TAHMİNİ DEĞER: 20000$"
+    harvest:
+      material:
+        type: DIAMOND
+        amount: 5
+        name: "&bElmas külçesi"
+        lore:
+          - "&9elmas işte"
+      seed:
+        chances:
+          #Örnek olarak: %80 oranla 1 tane, %20 oranla 2 tane verecek.
+          - 1;80 # 1 -> Kaç tane vericek? 80 -> Şansı ne?
+          - 2;20
